@@ -1,0 +1,8 @@
+Change-Id: I2dad9b51d17dd9d5cb4b2e7f250d89e6fa7d9f86
+Code-Review+2: Steve Kondik <shade@chemlab.org>
+Verified+1: Steve Kondik <shade@chemlab.org>
+Submitted-by: Steve Kondik <shade@chemlab.org>
+Submitted-at: Fri, 22 Jun 2012 21:29:28 +0400
+Reviewed-on: http://review.cyanogenmod.com/18095
+Project: CyanogenMod/android_vendor_qcom_opensource_kernel-tests_mm-audio
+Branch: refs/heads/ics
